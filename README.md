@@ -1,6 +1,6 @@
 # nofap
 
-Nofap calendar 
+Nofap counter 
 
 ## Usage 
 To start an interactive mode and list all available commands do:
