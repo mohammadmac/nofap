@@ -3,6 +3,7 @@
 Nofap calendar 
 
 ## Usage 
+To start an interactive mode and list all available commands do:
 ```sh
 $ ./nofap.py
 [NoFap]>help
